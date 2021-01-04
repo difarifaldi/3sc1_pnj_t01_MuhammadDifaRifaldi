@@ -1,2 +1,4 @@
 NO.REG : 1920010140
 nama : Muhammad Difa Rifaldi
+Jurusan : Software Engineering
+Angkatan : 2019
